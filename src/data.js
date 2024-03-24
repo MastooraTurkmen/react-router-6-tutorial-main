@@ -3,34 +3,34 @@ const products = [
     id: 'recZkNf2kwmdBcqd0',
     name: 'accent chair',
     image:
-      'https://res.cloudinary.com/dt2g7mgtv/image/upload/v1681749482/react-comfy-store-products/iuYyO9RP_o_upinxq.jpg',
+      'https://hamptonfurniture.com/wp-content/uploads/2021/04/furniture-living-room-chairs-category.jpg',
   },
   {
     id: 'recEHmzvupvT8ZONH',
     name: 'albany sectional',
 
     image:
-      'https://res.cloudinary.com/dt2g7mgtv/image/upload/v1681750782/react-comfy-store-products/product-2_lusrzx.jpg',
+      'https://www.ofurniture.com/media/catalog/product/cache/1/thumbnail/1000x800/9df78eab33525d08d6e5fb8d27136e95/1/0/107929.jpg',
   },
   {
     id: 'rec5NBwZ5zCD9nfF0',
     name: 'albany table',
 
     image:
-      'https://res.cloudinary.com/dt2g7mgtv/image/upload/v1681750874/react-comfy-store-products/product-3_znpiqa.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Ga17rzMMYq7mDy7oqggdPszv42k8XoBWIg&usqp=CAU',
   },
   {
     id: 'recd1jIVIEChmiwhe',
     name: 'armchair',
 
     image:
-      'https://res.cloudinary.com/dt2g7mgtv/image/upload/v1681750929/react-comfy-store-products/product-4_ebl6q1.jpg',
+      'https://myakka.co.uk/cdn/shop/products/myakka-armchair-salaam-printed-cotton-armchair-9511464075328_2000x.jpg?v=1629227766',
   },
   {
     id: 'recoM2MyHJGHLVi5l',
     name: 'bar stool',
     image:
-      'https://res.cloudinary.com/dt2g7mgtv/image/upload/v1681751026/react-comfy-store-products/product-5_n184nu.jpg',
+      'https://urbanmood.sg/cdn/shop/files/ROMANE1.jpg?v=1694413097',
   },
 ];
 
